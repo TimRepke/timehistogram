@@ -6,7 +6,7 @@ This is based on the [Google Chart API](https://developers.google.com/chart/), s
 
 Example:
 
-![alt text](https://github.com/Timmothey/timehistogram/example.png "")
+![alt text](https://raw.githubusercontent.com/Timmothey/timehistogram/master/example.png "")
 
 ## Basic usage:
 ```html
