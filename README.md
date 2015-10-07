@@ -16,7 +16,7 @@ Example:
 <!-- container for the chart -->
 <div id="histChart"></div>
 ```
-Than plop in your data:
+Than plug in your data:
 ```html
 <script type="text/javascript">
      var hist = new TimeHistogram();
